@@ -1,0 +1,10 @@
+python 3.12
+
+(jupyter / vscode jupyter extension)
+
+Python packages:
+pandas
+beautifulsoup4
+requests
+lxml
+selenium
