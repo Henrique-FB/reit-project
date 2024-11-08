@@ -6,6 +6,7 @@ import datetime as dt
 
 
 
+
 class Scraper:
     def __init__(self, URL = "https://fiis.com.br/rendimentos/?ticker="):
         self.URL = URL
